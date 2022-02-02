@@ -66,7 +66,8 @@ $(document).ready(function() {
 	function animeScroll() {
 		$target.each(function() {
             var scrollBottom = $(document).height() - $(window).height() - $(window).scrollTop();            
-            scrollBottom <= 0?$(this).addClass(animationClass):$(this).removeClass(animationClass);           
+            scrollBottom < 1?$(this).addClass(animationClass):$(this).removeClass(animationClass);
+            console.log(scrollBottom);         
 		});
 	}
 	animeScroll();
