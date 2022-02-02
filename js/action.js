@@ -49,3 +49,30 @@ customer.links.forEach(link => {
 	$('#button-links').append(button);
 });
 
+
+
+var root = document.documentElement;
+root.className += 'js';
+
+function boxTop(idBox) {
+	var boxOffset = $(idBox).offset().top;
+	return boxOffset;
+}
+
+$(document).ready(function() {
+	let $target = $('.anime');
+	let animationClass = 'anime-init';
+
+	function animeScroll() {
+		$target.each(function() {
+            var scrollBottom = $(document).height() - $(window).height() - $(window).scrollTop();            
+            scrollBottom <= 0?$(this).addClass(animationClass):$(this).removeClass(animationClass);           
+		});
+	}
+	animeScroll();
+
+	$(document).scroll(function() {
+		setTimeout(function() {animeScroll()}, 150);
+	});
+
+});
