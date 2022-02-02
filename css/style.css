@@ -74,17 +74,7 @@ body{
     font-size: 0.6em;
     font-weight: 400;
     letter-spacing: 0.2em;
-}
-
-.js .anime {
-	opacity: 0;
-	transform: translate3D(-50px, 0px, 0px);
-}
-
-.js .anime-init {
-	opacity: 1;
-	transform: translate3D(0px, 0px, 0px);
-	transition: .3s all ease;
+    z-index: -1;
 }
 
 .my-1{
@@ -99,6 +89,9 @@ body{
 @media only screen and (min-width: 576px) {
     .contacts{
         margin-inline: 10vw;
+    }
+    .footer{
+        position: relative;  
     }
 }
 

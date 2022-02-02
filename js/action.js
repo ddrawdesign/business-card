@@ -38,6 +38,7 @@ $('title').html(customer['name'].replaceAll('<span>', '').replaceAll('</span>', 
 $('#company-name').html(customer['name']);
 $('#company-description').text(customer.description);
 $('body').css("background-color", customer.backgroundSite);
+$('#button-links').css("background-color", customer.backgroundSite);
 $('body').css("color", customer.colorFontSite);
 $('#img-cover').attr("src",url.attr('origin') +'/'+urlCustomers+'/capa.png');
 $('#img-social-networks').attr("src",url.attr('origin') +'/'+urlCustomers+'/icones-redes-sociais.png');
@@ -58,22 +59,3 @@ function boxTop(idBox) {
 	var boxOffset = $(idBox).offset().top;
 	return boxOffset;
 }
-
-$(document).ready(function() {
-	let $target = $('.anime');
-	let animationClass = 'anime-init';
-
-	function animeScroll() {
-		$target.each(function() {
-            var scrollBottom = $(document).height() - $(window).height() - $(window).scrollTop();            
-            scrollBottom < 1?$(this).addClass(animationClass):$(this).removeClass(animationClass);
-            console.log(scrollBottom);         
-		});
-	}
-	animeScroll();
-
-	$(document).scroll(function() {
-		setTimeout(function() {animeScroll()}, 150);
-	});
-
-});
