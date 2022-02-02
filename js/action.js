@@ -11,7 +11,7 @@ customers["eliton"]={
             {"name":"Site oficial","url":"https://drawbe.com.br/","animation":"animation1"},
             {"name":"Facebook","url":"https://www.facebook.com/eliton.camargodeoliveira","animation":"animation2"},
             {"name":"linkedin","url":"https://www.linkedin.com/in/eliton-camargo-270a37b3/","animation":"animation3"},
-            {"name":"WhatsApp","url":"https://api.whatsapp.com/send?phone=5515998541194","animation":"animation4"}
+            {"name":"WhatsApp","url":"https://api.whatsapp.com/send?phone=5514996874866","animation":"animation4"}
         ]
     };
     
@@ -23,7 +23,7 @@ customers["drawbe"]={
         "backgroundButton":"#ff9076",
         "colorFontButton":"white",
         "links":[
-            {"name":"WHATSAPP","url":"https://api.whatsapp.com/send?phone=5515998541194","animation":"animation2"},
+            {"name":"WHATSAPP","url":"http://api.whatsapp.com/send?phone=5511950509303","animation":"animation2"},
             {"name":"SITE OFICIAL","url":"https://drawbe.com.br/","animation":"animation3"},
             {"name":"INSTAGRAM","url":"https://www.instagram.com/drawbedesign/","animation":"animation4"},
             {"name":"FACEBOOK","url":"https://www.facebook.com/drawbedesign","animation":"animation5"},
