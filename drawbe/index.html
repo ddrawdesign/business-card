@@ -1,33 +1,53 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/style.css">
+    <title></title>    
 </head>
 <body>
-    <div id="card">
+    <div id="card" class="card-background">
         <section class="company-data">
             <img id="img-cover" src="" alt="">
             <h1 id="company-name"></h1>
-            <h2 id="company-description"></h2>
+            <div id="company-description">
+
+            </div>            
         </section>
     
         <section class="contacts"> 
-            <img id="img-social-networks" src="" alt="" width="30%">
-            <div id="button-links" class="my-2">
+            <img id="img-social-networks" src="">
+            <div id="button-links">
             </div>
-        </section>
-    
-        <section class="footer">
-            <h3>DESENVOLVIDO POR DRAWBE</h3>
-        </section>
-    
-        <script src="../js/jquery-3.6.0.min.js"></script>
-        <script src="../js/action.js"></script>
+        </section>  
+
     </div>
+    <footer>
+        <h2>DESENVOLVIDO POR DRAWBE</h2>
+    </footer>
+
+    <script>
+        const customer = {
+            "name":"Drawbe",
+            "description": "<h2>TRANSFORMO PESSOAS E EMPRESAS COMUNS EM MARCAS QUE SE DESTACAM DE VERDADE.</h2><h2 >ELEGANTE – SOFISTICADO – MINIMALISTA.</h2>",
+            "backgroundSite":"#fffbf8",
+            "colorFontSite":"#7f7f7f",
+            "backgroundButton":"#ffa08a",
+            "colorFontButton":"white",
+            "links":[
+                {"name":"WHATSAPP","url":"http://api.whatsapp.com/send?phone=5511950509303","animation":"a2"},
+                {"name":"SITE OFICIAL","url":"https://drawbe.com.br/","animation":"a3"},
+                {"name":"INSTAGRAM","url":"https://www.instagram.com/drawbedesign/","animation":"a4"},
+                {"name":"FACEBOOK","url":"https://www.facebook.com/drawbedesign","animation":"a5"},
+            ]
+        }; 
+    </script>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+   
 </body>
 </html>
+
+
