@@ -103,7 +103,7 @@ footer{
     font-weight: 400;
     letter-spacing: 0.2em;
 }
-footer h1{
+footer h2{
     z-index: -2;
     background-color: red;
 }
