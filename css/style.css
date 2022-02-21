@@ -10,6 +10,7 @@ body{
     min-height: 95vh;
     margin-bottom: 25px;
     box-shadow: 1px 0px 3px rgb(117, 117, 117);
+    padding-bottom: 15px;
 }
 
 .card-background{    
@@ -90,11 +91,13 @@ body{
 #button-links{
     width: 75%;
     margin: auto;
+    
 }
+
 footer{
     width: 100%;
     position: fixed;
-    bottom: 15px;    
+    bottom: 8px;    
     z-index: -1;
 
     font-size: 0.6em;
