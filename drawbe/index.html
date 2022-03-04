@@ -1,55 +1,57 @@
-<!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/style.css">
-    <title></title>    
+    <title>Drawbe</title>
+    <style>
+        .card-background {
+            background-image: url("https://dbcard.com.br/drawbe/linhas.png");
+        }
+
+        .card-background::before {
+            background-color: #fffbf8;
+        }
+    </style>
 </head>
-<body>
+
+<body style="color: rgb(127, 127, 127);">
     <div id="card" class="card-background">
         <section class="company-data">
-            <img id="img-cover" src="" alt="">
-            <h1 id="company-name"></h1>
+            <img id="img-cover" src="https://dbcard.com.br/drawbe/capa.png" alt="">
+            <h1 id="company-name">Drawbe</h1>
             <div id="company-description">
 
-            </div>            
-        </section>
-    
-        <section class="contacts"> 
-            <img id="img-social-networks" src="">
-            <div id="button-links">
+                <h2>TRANSFORMO PESSOAS E EMPRESAS COMUNS EM MARCAS QUE SE DESTACAM DE VERDADE.</h2>
+                <h2>ELEGANTE – SOFISTICADO – MINIMALISTA.</h2>
             </div>
-        </section>  
+        </section>
+
+        <section class="contacts">
+            <img id="img-social-networks" src="https://dbcard.com.br/drawbe/icones-redes-sociais.png">
+            <div id="button-links">
+                <a class="a2" href="http://api.whatsapp.com/send?phone=5511950509303" target="_blank"
+                    rel="noopener noreferrer" style="background-color: #ffa08a; color: white;">
+                    WHATSAPP
+                </a><a class="a3" href="https://drawbe.com.br/" target="_blank" rel="noopener noreferrer"
+                    style="background-color: #ffa08a; color: white;">
+                    SITE OFICIAL
+                </a><a class="a4" href="https://www.instagram.com/drawbedesign/" target="_blank"
+                    rel="noopener noreferrer" style="background-color: #ffa08a; color: white;">
+                    INSTAGRAM
+                </a><a class="a5" href="https://www.facebook.com/drawbedesign" target="_blank" rel="noopener noreferrer"
+                    style="background-color: #ffa08a; color: white;">
+                    FACEBOOK
+                </a>
+            </div>
+        </section>
 
     </div>
     <footer>
         <h2>DESENVOLVIDO POR DRAWBE</h2>
     </footer>
-
-    <script src="../js/jquery-3.6.0.min.js"></script>
-    <!-- Begin card data -->
-    <script>
-        const customer = {
-            "name":"Drawbe",
-            "description": "<h2>TRANSFORMO PESSOAS E EMPRESAS COMUNS EM MARCAS QUE SE DESTACAM DE VERDADE.</h2><h2 >ELEGANTE – SOFISTICADO – MINIMALISTA.</h2>",
-            "backgroundSite":"#fffbf8",
-            "colorFontSite":"#7f7f7f",
-            "backgroundButton":"#ffa08a",
-            "colorFontButton":"white",
-            "links":[
-                {"name":"WHATSAPP","url":"http://api.whatsapp.com/send?phone=5511950509303","animation":"a2"},
-                {"name":"SITE OFICIAL","url":"https://drawbe.com.br/","animation":"a3"},
-                {"name":"INSTAGRAM","url":"https://www.instagram.com/drawbedesign/","animation":"a4"},
-                {"name":"FACEBOOK","url":"https://www.facebook.com/drawbedesign","animation":"a5"},
-            ]
-        }; 
-    </script>
-    <!-- End card data -->
-    <script src="../js/action.js"></script>
-   
 </body>
+
 </html>
-
-
