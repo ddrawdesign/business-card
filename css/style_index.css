@@ -1,0 +1,106 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+@import url("https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i");
+
+body {
+  font-family: Poppins, Nunito, -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
+}
+.div{
+    height: 500px;
+    background-color: #727070;
+    margin: 80px 0;
+}
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #ff9076;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+#mainNav {
+  min-height: 3.5rem;
+  background-color: #fff;
+}
+#mainNav .navbar-toggler {
+  font-size: 80%;
+  padding: 0.75rem;
+  color: #ff9076;
+  border: 1px solid #ff9076;
+}
+#mainNav .navbar-toggler:focus {
+  outline: none;
+}
+#mainNav .navbar-brand {
+  color: #727070;
+  font-weight: normal;
+  padding: 0.9rem 0;
+}
+#mainNav .navbar-nav .nav-item:hover {
+  color: fade(#fff, 80%);
+  outline: none;
+  background-color: transparent;
+}
+#mainNav .navbar-nav .nav-item:active,
+#mainNav .navbar-nav .nav-item:focus {
+  outline: none;
+  background-color: transparent;
+}
+@media (min-width: 992px) {
+  #mainNav {
+    padding-top: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+    background-color: transparent;
+    transition: background-color 0.3s ease-in-out;
+  }
+  #mainNav .navbar-brand {
+    padding: 0.5rem 0;
+    color: #ff9076;
+  }
+
+  #mainNav .navbar-brand:hover {
+    color: rgb(255 255 255 / 90%);
+    /* color: #ff9076; */
+  }
+
+  #mainNav.navbar-shrink .navbar-brand:hover {
+    color: #ff9076;
+  }
+
+  #mainNav .nav-link {
+    transition: none;
+    padding: 2rem 1.5rem;
+    color: #ff9076;
+  }
+  #mainNav .nav-link:hover {
+    color: rgb(255 255 255 / 75%);
+  }
+  #mainNav .nav-link:active {
+    color: #fff;
+  }
+  #mainNav.navbar-shrink {
+    background-color: #fff;
+  }
+  #mainNav.navbar-shrink .navbar-brand {
+    color: #727070;
+  }
+  #mainNav.navbar-shrink .nav-link {
+    color: #727070;
+    padding: 1.5rem 1.5rem 1.25rem;
+    border-bottom: 0.25rem solid transparent;
+  }
+  #mainNav.navbar-shrink .nav-link:hover {
+    color: #ff9076;
+  }
+  #mainNav.navbar-shrink .nav-link:active {
+    color: #ff9076;
+  }
+  #mainNav.navbar-shrink .nav-link.active {
+    color: #ff9076;
+    outline: none;
+    border-bottom: 0.25rem solid #ff9076;
+  }
+}
