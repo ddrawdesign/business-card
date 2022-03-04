@@ -15,11 +15,14 @@ $('head').append(`<style>
     .card-background::before{
         background-color: ${customer.backgroundSite};            
     }
+    #button-links a{
+        background-color: ${customer.backgroundButton}; color: ${customer.colorFontButton};
+    }
 </style>`);
 
 customer.links.forEach(link => {
-    let button = `<a class="${link.animation}" href="${link.url}" target="_blank" rel="noopener noreferrer" style="background-color: ${customer.backgroundButton}; color: ${customer.colorFontButton};">            
+    let button = `<a class="${link.animation}" href="${link.url}" target="_blank" rel="noopener noreferrer">            
                     ${link.name}
-                </a>`;
+                </a>\n`;
     $('#button-links').append(button);
 });
