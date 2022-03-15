@@ -1,6 +1,7 @@
 body{
-    font-family: 'Poppins', Arial, Helvetica;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
+    color: #7f7f7f;
 }
 #card{
     margin: 0 auto;
