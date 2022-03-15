@@ -81,7 +81,7 @@ body{
     opacity: 0.9;
 }
 #img-social-networks{
-    margin: 10px;
+    margin: 10px 10px 0 10px;
     max-width: 30%;
 }
 #button-links{
