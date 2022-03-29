@@ -21,6 +21,7 @@ $('head').append(`<style>
         background-color: ${customer.backgroundButton}; color: ${customer.colorFontButton};
     }
 </style>`);
+$('head').append(`<link rel="icon" type="image/png" href="${url}/icon.png" />`);
 
 customer.links.forEach(link => {
     let button = `<a class="${link.animation}" href="${link.url}" target="_blank" rel="noopener noreferrer">            
