@@ -1,5 +1,5 @@
+<!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,63 +8,55 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
-
-    <title>Drawbe</title>
-    <style>
-    .card-background{
-        background-image: url("https://dbcard.com.br/compilador/linhas.png");
-    }
-    .card-background::before{
-        background-color: #fffbf8;            
-    }
-    #button-links a{
-        background-color: #ffa08a; color: white;
-    }
-    </style>
+    <link rel="stylesheet" href="../css/style.css">    
+    <title></title>    
 </head>
-
 <body>
     <div id="card" class="card-background">
         <section class="company-data">
-            <img id="img-cover" src="https://dbcard.com.br/drawbe/capa.png" width="85px">
-            <h1 id="company-name">Drawbe</h1>
+            <img id="img-cover" src="" alt="">
+            <h1 id="company-name"></h1>
             <div id="company-description">
-                <h2>IDENTIDADE VISUAL E POSICIONAMENTO DE MARCAS</h2>
-                <h2>DESIGNER: BEATRIZ MONTEIRO</h2>
-            </div>
-        </section>
 
-        <section class="contacts">
-            <img id="img-social-networks" src="https://dbcard.com.br/drawbe/icones-redes-sociais.png" >
-            <div id="button-links">
-                <a class="a2" 
-                    href="http://api.whatsapp.com/send?phone=5511950509303" 
-                    target="_blank"
-                    rel="noopener noreferrer" 
-                    style="background-color: #ffa08a; color: white;">
-                    WHATSAPP
-                </a>
-                <a class="a3" 
-                    href="https://drawbe.com.br/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    style="background-color: #ffa08a; color: white;">
-                    SITE OFICIAL
-                </a>
-                <a class="a4" 
-                    href="https://www.instagram.com/drawbedesign/" 
-                    target="_blank"
-                    rel="noopener noreferrer" 
-                    style="background-color: #ffa08a; color: white;">
-                    INSTAGRAM
-                </a>
-            </div>
+            </div>            
         </section>
+    
+        <section class="contacts"> 
+            <br>
+            <br>
+            <img id="img-social-networks" src="" width="76px">
+            <div id="button-links">
+            </div>
+            <br>
+            <br>
+        </section>  
 
     </div>
     <footer>
         <h2>DESENVOLVIDO POR DRAWBE</h2>
     </footer>
+
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <!-- Begin card data -->
+    <script>
+        const customer = {
+            "name":"DRAWBE",
+            "description": "<h2>IDENTIDADE VISUAL E POSICIONAMENTO DE MARCAS</h2><h2>DESIGNER: BEATRIZ MONTEIRO</h2>",
+            "backgroundSite":"#f7f0ed",
+            "colorFontSite":"#7f7f7f",
+            "backgroundButton":"#eaac9b",
+            "colorFontButton":"#f7ede7",
+            "links":[
+                {"name":"WHATSAPP"      ,"animation":"a1" ,"url":"http://api.whatsapp.com/send?phone=5511950509303"},
+                {"name":"SITE"          ,"animation":"a2" ,"url":"https://drawbe.com.br/"},
+                {"name":"INSTAGRAM"     ,"animation":"a3" ,"url":"https://www.instagram.com/drawbedesign/"}
+            ]
+        }; 
+    </script>
+    <!-- End card data -->
+    <script src="../js/action.js"></script>
+   
 </body>
 </html>
+
+
