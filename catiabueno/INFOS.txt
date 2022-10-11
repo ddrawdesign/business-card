@@ -1,0 +1,13 @@
+NOME: ATELIÊ CATIA BUENO
+SLOGAN: VISAGISM AND MAKEUP
+
+NOME LINK: catiabueno
+
+WHATSAPP:       https://api.whatsapp.com/send?phone=5511950310247
+SITE OFICIAL:   https://www.catiabueno.com.br/
+INSTAGRAM:      https://www.instagram.com/catiambueno/
+
+COR BOTÃO: #CD9295
+COR LETRA DO BOTÃO:#FFFFF
+COR SLOGAN: #CD9295
+COR FUNDO: #F9F9F9
