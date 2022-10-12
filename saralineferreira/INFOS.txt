@@ -3,9 +3,9 @@ SLOGAN: ESTÚDIO FOTOGRÁFICO
 
 NOME LINK: saralineferreira
 
-WHATSAPP: https://api.whatsapp.com/send?phone=5512997431815
-INSTAGRAM: ainda vai enviar. deixar sem por enquanto.
-SITE OFICIAL: http://www.saralineferreira.com.br/
+WHATSAPP:       https://api.whatsapp.com/send?phone=5512997431815
+INSTAGRAM:      ainda vai enviar. deixar sem por enquanto.
+SITE OFICIAL:   http://www.saralineferreira.com.br/
 
 COR BOTÃO: #DEB7AC
 COR LETRA DO BOTÃO:#FFFFFF
