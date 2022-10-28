@@ -1,0 +1,16 @@
+NOME: FERNANDA MANCINI
+
+SLOGAN:
+ARQUITETURA
+CONSULTORIA ON-LINE
+
+NOME LINK: fernandamancini
+
+FALE CONOSCO:   https://api.whatsapp.com/send?phone=5521994932480
+E-MAIL:         mailto:fernanda@mancini.net.br
+INSTAGRAM:      https://www.instagram.com/studiofernandamancini/
+ORÇAMENTOS:     https://fqvjunr0v65.typeform.com/to/jinDOeuW
+
+COR BOTÃO: #626367
+COR LETRA DO BOTÃO:#F2F2F2
+COR FUNDO: #EFEFEF
