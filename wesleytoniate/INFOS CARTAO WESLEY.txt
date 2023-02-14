@@ -1,0 +1,15 @@
+NOME: WESLEY TONIATE
+FRASE EMBAIXO: ARQUITETURA
+
+NOME LINK: wesleytoniate
+
+BOTÕES:
+
+WHATSAPP: https://api.whatsapp.com/send?phone=5511916706913
+INSTAGRAM: https://www.instagram.com/toniatearquitetura/
+SITE OFICIAL: http://toniate.com.br/
+
+COR BOTÃO: #c1bcb4
+COR FUNDO: #f9f9f9
+COR LETRA BOTÃO: #ffffff
+
