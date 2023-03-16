@@ -1,0 +1,17 @@
+NOME: ALINE COELHO
+FRASE EMBAIXO DO NOME: FARMACÊUTICA ESPECIALISTA EM SAÚDE
+ESTÉTICA E COSMÉTICA / FARMÁCIA CLÍNICA
+NOME LINK: alinecoelho
+
+Essa cliente mudou a cor do fundo, então as letras serão brancas.
+#ffffff
+
+COR FUNDO: #9ebebd
+COR BOTÃO: #8d454f
+COR LETRA DO BOTÃO: #ffffff
+
+BOTÃO:
+
+WHATSAPP: https://api.whatsapp.com/send?phone=553193540695
+INSTAGRAM: https://www.instagram.com/alinecoelhoesteticaesaude/
+E-MAIL: mailto:linegcoelho@yahoo.com.br
