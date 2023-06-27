@@ -1,0 +1,15 @@
+NOME DO LINK: alcovastudio
+
+NOME: ALCOVA STUDIO
+FRASE (ABAIXO DO NOME): ARQUITETURA & ARCHVIZ
+
+COR FUNDO: F4F4F4
+COR BOTÃO: BFB5AA
+COR LETRA DO BOTÃO: FFFFFF
+
+VAI CONTER OS SEGUINTES LINKS:
+WHATSAPP: https://api.whatsapp.com/send?phone=5511914185310&text=Ol%C3%A1%20Nath.%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20seus%20servi%C3%A7os!
+
+SOLICITE SEU ORÇAMENTO: https://docs.google.com/forms/d/e/1FAIpQLSfYUwQSsrYRz3q86ubuCfkCkbSP0G76adS2Ci0VoqMD-Y6m9w/viewform
+
+INSTAGRAM: https://www.instagram.com/alcova.studio/
