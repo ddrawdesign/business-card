@@ -1,0 +1,12 @@
+NOME DO LINK: elianetuller
+
+NOME: ELIANE TULLER
+FRASE (ABAIXO DO NOME): AESTHETICS
+
+COR FUNDO: F4F4F4
+COR BOTÃO: CDB5AE
+COR LETRA DO BOTÃO: FFFFFF
+
+VAI CONTER OS SEGUINTES LINKS:
+WHATSAPP: https://api.whatsapp.com/send?phone=19786457738
+INSTAGRAM: https://www.instagram.com/elianetulleresthetics/
