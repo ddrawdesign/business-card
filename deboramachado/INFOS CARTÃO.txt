@@ -1,0 +1,17 @@
+- NOME DO LINK: deboramachado
+
+- NOME: DÉBORA MACHADO
+- FRASE (ABAIXO DO NOME):
+PSICÓLOGA E PSICOPEDAGOGA
+ESPECIALIZAÇÃO EM ABA
+CRP 05/34186
+
+- COR FUNDO: F4F3F2
+- COR BOTÃO: 67416D
+- COR LETRA DO BOTÃO: FFFFFF
+
+- LINKS:
+
+WHATSAPP: https://api.whatsapp.com/send/?phone=5522988177998
+INSTAGRAM: https://www.instagram.com/deboramachadopsicologa/
+TELEFONE: tel://22988177998/
