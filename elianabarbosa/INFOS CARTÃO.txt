@@ -1,0 +1,15 @@
+- NOME DO LINK: elianabarbosa
+
+- NOME: ELIANA BARBOSA
+- FRASE (ABAIXO DO NOME): PSICÓLOGA, CRP 06 195834 
+
+- cor letra do noem CINZA: #939393
+- COR FUNDO: f4f4f4
+- COR BOTÃO: a96b65
+- COR LETRA DO BOTÃO: FFFFFF
+
+- LINKS:
+
+WHATSAPP: https://api.whatsapp.com/send?phone=5512991375954
+INSTAGRAM: https://www.instagram.com/elibarbosapsi/
+E-MAIL: mailto:elibarbosapsi@gmail.com
