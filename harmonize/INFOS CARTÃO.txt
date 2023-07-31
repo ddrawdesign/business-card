@@ -1,0 +1,18 @@
+- NOME DO LINK: harmonize
+
+- NOME: HARMONIZE
+- FRASE (ABAIXO DO NOME): ATELIÊ DE DECORAÇÃO
+
+- cor letra do nome em CINZA: #939393
+- COR FUNDO: F2F2F2
+- COR BOTÃO: BDB6AA
+- COR LETRA DO BOTÃO: FFFFFF
+
+- LINKS:
+
+SITE OFICIAL: https://www.conceitoharmonize.com.br/
+ATENDIMENTO WHATSAPP: https://api.whatsapp.com/send?phone=5521971012370
+FACEBOOK: https://www.facebook.com/conceitoharmonize
+PINTEREST: https://pin.it/7IdOwys
+PLAYLIST (SOM AMBIENTE): https://open.spotify.com/user/22aprniq6poq2x2tv72cvtqxq?si=E3faLjSpQ7yxx0rlqf4R3Q&dl_branch=1&nd=1
+LOCALIZAÇÃO: https://goo.gl/maps/oQ9WbGSxXfgrPpHJ8
