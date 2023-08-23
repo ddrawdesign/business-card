@@ -1,0 +1,14 @@
+- NOME DO LINK: juprata
+
+- NOME: JU PRATA
+- FRASE (ABAIXO DO NOME): BEAUTY ARTIST
+
+- cor letra do nome em CINZA: #939393
+- COR FUNDO: EAE9E8
+- COR BOTÃO: B4A090
+- COR LETRA DO BOTÃO: FFFFFF
+
+- LINKS:
+WHATSAPP: https://api.whatsapp.com/send?phone=5521993721374
+INSTAGRAM: @julianarcprata
+E-MAIL: contato@juprata.com
