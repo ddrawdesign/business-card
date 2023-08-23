@@ -1,0 +1,17 @@
+- NOME DO LINK: drawbe
+
+Trocar o ícone da barra de navegação. 
+
+- NOME: DRAWBE
+- FRASE (ABAIXO DO NOME): DESIGN DE MARCAS
+
+- cor letra do nome em CINZA: #939393
+- COR FUNDO: F4F4F4
+- COR BOTÃO: D3B7AF
+- COR LETRA DO BOTÃO: FFFFFF
+
+- LINKS:
+ATENDIMENTO WHATSAPP: https://api.whatsapp.com/send?phone=5515996305201
+SITE OFICIAL: https://drawbe.com.br/
+TEMPLATES CANVA: https://drawbe.com.br/templates/
+INSTAGRAM: https://www.instagram.com/drawbedesign/
