@@ -1,0 +1,10 @@
+NOME LINK: cita
+
+COR FUNDO: F4F4F4
+COR BOTÃO: B7ABA3
+COR LETRA BOTÃO: FFFFFF
+
+LINKS:
+WHATSAPP: https://api.whatsapp.com/send?phone=5551998296951
+E-MAIL: mailto://contato@citaarquitetura.com.br
+INSTAGRAM: https://www.instagram.com/cita_arquitetura/
