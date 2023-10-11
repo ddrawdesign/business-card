@@ -1,0 +1,16 @@
+NOME LINK: drajuliacoutinho
+
+NOME CARTÃO: DRA. JULIA COUTINHO
+
+FRASE ABAIXO DO NOME: ODONTOLOGIA ESTÉTICA
+
+CORES
+COR DO NOME (CINZA CLARO): 939393
+COR FUNDO: E5E5E5 
+COR BOTÃO: A09785
+COR LETRA DO BOTÃO: EFEEED
+
+LINKS BOTÕES
+WHATSAPP        :       https://api.whatsapp.com/send?phone=5511910685365
+INSTAGRAM       :       https://www.instagram.com/drajuliacoutinho_/
+LOCALIZAÇÃO     :       https://maps.app.goo.gl/dXgzer9Da5BjuBKS8
