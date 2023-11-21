@@ -1,0 +1,16 @@
+
+NOME LINK: mdodontologia
+NOME CARTÃO: MD
+FRASE ABAIXO DO NOME: ODONTOLOGIA DIGITAL
+
+CORES:
+COR LETRA CINZA CLARO: 7C7C7C
+COR FUNDO: EDEDED
+COR BOTÃO: BCB8AF
+COR LETRA DO BOTÃO: FFFFFF
+
+LINKS:
+WHATSAPP: https://api.whatsapp.com/send?phone=5524999960640
+TELEFONE: tel://2433654194/
+E-MAIL: mailto:acompanhareal@gmail.com
+LOCALIZAÇÃO: https://maps.app.goo.gl/XhqZgqPmAupqMn8C7
