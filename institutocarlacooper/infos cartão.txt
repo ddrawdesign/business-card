@@ -1,0 +1,15 @@
+NOME LINK CARTÃO: institutocarlacooper
+
+cor fundo: EDEBEB
+cor letra do botão: FFFFFF
+cor botão: C59893
+
+links:
+TELEFONE: tel://02141221133/
+WHATSAPP: https://api.whatsapp.com/send?phone=5521959068552
+SITE OFICIAL: https://www.dracarlacooper.com.br/
+AVALIAÇÃO GOOGLE:
+INSTAGRAM: https://www.instagram.com/dracarlacooper/
+TIKTOK: https://www.tiktok.com/@dracarlacooper?_t=8kQrBb6K7Mr&_r=1
+E-MAIL: mailto:carlamcooper@hotmail.com
+LOCALIZAÇÃO: https://maps.app.goo.gl/ib2MGNZkKqPgwoVj8

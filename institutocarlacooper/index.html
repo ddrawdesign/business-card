@@ -15,14 +15,21 @@
     <div id="card" class="card-background">
         <section class="company-data">
             <img id="img-cover" src="" alt="">
-            <h1 id="company-name"></h1>
-            <div id="company-description">
+            <h1 id="company-name" style="display: none;"></h1>
+            <img 
+                src="/institutocarlacooper/logotipo.png"
+                style="
+                    width: 50%;
+                    margin: 40px 0 10px;
+                "
+            >
+
+            <div id="company-description" style="display: none;">
 
             </div>            
         </section>
     
-        <section class="contacts"> 
-            <img id="img-social-networks" src="" width="76px">
+        <section class="contacts">             
             <div id="button-links">
             </div>
         </section>  
@@ -36,18 +43,21 @@
     <!-- Begin card data -->
     <script>
         const customer = {
-            "name":"",
-            "description": "<h2></h2><h2 ></h2>",
-            "backgroundSite":"#fffbf8",
+            "name":"Institulo Carla Cooper",
+            "description": "<h2>Institulo Carla Cooper</h2>",
+            "backgroundSite":"#EDEBEB",
             "colorFontSite":"#7f7f7f",
-            "backgroundButton":"#ffa08a",
-            "colorFontButton":"white",
+            "backgroundButton":"#C59893",
+            "colorFontButton":"#FFFFFF",
             "links":[
-                {"name":"WHATSAPP"      ,"animation":"a2" ,"url":""},
-                {"name":"SITE OFICIAL"  ,"animation":"a3" ,"url":""},
-                {"name":"INSTAGRAM"     ,"animation":"a4" ,"url":""},
-                {"name":"FACEBOOK"      ,"animation":"a5" ,"url":""},
-                {"name":"E-MAIL"        ,"animation":"a3" ,"url":""}
+                {"name":"TELEFONE"              ,"animation":"a1" ,"url":"tel://02141221133/"},
+                {"name":"WHATSAPP"              ,"animation":"a2" ,"url":"https://api.whatsapp.com/send?phone=5521959068552"},
+                {"name":"SITE OFICIAL"          ,"animation":"a5" ,"url":"https://www.dracarlacooper.com.br/"},
+                {"name":"AVALIAÇÃO GOOGLE"      ,"animation":"a2" ,"url":""},
+                {"name":"INSTAGRAM"             ,"animation":"a3" ,"url":"https://www.instagram.com/dracarlacooper/"},
+                {"name":"TIKTOK"                ,"animation":"a4" ,"url":"https://www.tiktok.com/@dracarlacooper?_t=8kQrBb6K7Mr&_r=1"},
+                {"name":"E-MAIL"                ,"animation":"a2" ,"url":"mailto:carlamcooper@hotmail.com"},
+                {"name":"LOCALIZAÇÃO"           ,"animation":"a3" ,"url":"https://maps.app.goo.gl/ib2MGNZkKqPgwoVj8"}
             ]
         }; 
     </script>
