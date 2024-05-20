@@ -1,0 +1,13 @@
+nomelink: rcsmileodontologia
+NOME CARTÃO: RC SMILE
+FRASE EMBAIXO DO NOME: ODONTOLOGIA
+
+BOTÔES:
+ATENDIMENTO WHATSAPP: https://api.whatsapp.com/send?phone=5511947729979
+SITE OFICIAL: http://rcsmileodontologia.com.br/
+LOCALIZAÇÃO (sala 77): https://maps.app.goo.gl/fjoKQiCUZBfAVcWi7
+INSTAGRAM: https://www.instagram.com/rcsmile_odontologia/
+
+COR FUNDO: EFEEED
+COR BOTÃO: B9AC9D
+COR LETRA BOTÃO: FFFFFF
