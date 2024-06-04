@@ -1,0 +1,13 @@
+nome link: cestaencanto
+
+Nome cartão: CESTA ENCANTO
+
+COR FUNDO: F4F4F4
+
+COR BOTÃO: ADAF94
+
+COR LETRA BOTÃO: FFFFFF
+
+BOTÕES:
+WHATSAPP: NÃO TEM LINK POR ENQUANTO.
+INSTAGRAM: https://www.instagram.com/cesta.encanto/
